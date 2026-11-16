@@ -1,0 +1,11 @@
+name: Session Scene Queue
+description: Replaces Stash playback queues with a tab-session scene queue, thumbnail controls, and player UI.
+version: 1.8.5
+ui:
+  javascript:
+    - stash-session-queue.js
+    - saved-queues-core.js
+    - saved-queues.js
+  css:
+    - stash-session-queue.css
+
